@@ -1,2 +1,2 @@
 # demo-new
-new demo repo created, phle wale me .gitignore dalna bool gye thy.
+new demo repo created, inprevious .gitignore file forgot to add
